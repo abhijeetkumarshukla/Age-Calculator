@@ -34,8 +34,8 @@ Contributions to improve the functionality or design of this Age Calculator are 
 # License:
 This Age Calculator is open-source software licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
 
-Author:
- # Abhijeet Kumar Shukla
+# Author:
+  Abhijeet Kumar Shukla
 
 For any inquiries or assistance, please contact shuklaabhijeet510@gmail.com.
 
